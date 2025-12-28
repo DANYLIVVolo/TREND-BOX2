@@ -1,0 +1,110 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+}
+header{
+    background-color:#FF7904 ;
+}
+main{
+    background-color: #19460F;
+}
+article{
+    background-color: #1DC520;
+}
+section{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+article img{
+    width:250px;
+    height: 300px;
+    padding: 15px;
+}
+article{
+    margin:5px;
+}
+.button{
+    background-color: #FFA100;
+    text-decoration: None;
+    font-size:30px;
+    border-radius: 10px;
+    color:white;
+    padding: 10px;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.button:hover{
+    box-shadow:3px 5px 10px 0 black ;
+}
+.new{
+    background-color: #0b8165;
+    margin:5px;
+}
+.news{
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+      background-color: #1d3832;
+}
+button{
+    background-color: #6dcf57;
+    font-size: 15px;
+    padding: 10px;
+}
+.newss{
+    background-color: #25584d;
+    padding: 10px;
+    font-size: 15px;
+}
+.sale{
+    background-color: #8D6C26;
+}
+.salea{
+    background-color:#FFA100;
+}
+.sales{
+    background-color: #FF7904;
+    padding: 10px;
+    font-size: 15px;
+}
+footer{
+    background-color: #834005;
+}
+.insta{
+    width: 50px;
+    height: 50px;
+}
+.instap{
+    color: white;
+}
+.cosh{
+    background-color:rgb(217, 41, 17);
+    text-decoration: None;
+    font-size:30px;
+    border-radius: 10px;
+    color:white;
+    padding: 10px;
+}
+.cosh:hover{
+    box-shadow:3px 5px 10px 0 black ;
+}
+p{
+    text-align: center;
+}
+article{
+    text-align:center ;
+}
+button:hover{
+    box-shadow:3px 5px 10px 0 white  ;
+}
